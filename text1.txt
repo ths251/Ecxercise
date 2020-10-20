@@ -1,3 +1,8 @@
 breyti þessu aðeins
+<<<<<<< HEAD
 
 Breyti aðeins meira
+=======
+Núna erum við á branch þorsteinn
+AFtur breyting a Þorsteinn
+>>>>>>> Þorsteinn
