@@ -1,4 +1,6 @@
+  
 breyti þessu aðeins
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 Breyti aðeins meira
@@ -6,3 +8,7 @@ Breyti aðeins meira
 Núna erum við á branch þorsteinn
 AFtur breyting a Þorsteinn
 >>>>>>> Þorsteinn
+=======
+ein lína af kóða
+AFtur breyting a Þorsteinn
+>>>>>>> df3693c767e5d7919cb5b84b654a11833a855937
